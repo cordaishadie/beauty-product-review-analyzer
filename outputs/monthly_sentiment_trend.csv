@@ -1,0 +1,16 @@
+month,sentiment,review_count
+2026-01,negative,6
+2026-01,neutral,3
+2026-01,positive,17
+2026-02,negative,6
+2026-02,neutral,4
+2026-02,positive,12
+2026-03,negative,12
+2026-03,neutral,4
+2026-03,positive,10
+2026-04,negative,9
+2026-04,neutral,1
+2026-04,positive,12
+2026-05,negative,7
+2026-05,neutral,6
+2026-05,positive,11

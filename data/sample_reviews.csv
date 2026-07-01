@@ -1,21 +1,121 @@
 review_id,product_name,category,rating,review_text,review_date
-1,GlowSkin Vitamin C Serum,Serum,5,"This serum made my skin look brighter and more even. I love the glow it gives.",2026-01-04
-2,GlowSkin Vitamin C Serum,Serum,2,"It smelled nice but it irritated my skin and caused small bumps.",2026-01-07
-3,HydraSoft Daily Moisturizer,Moisturizer,5,"Very hydrating without feeling greasy. My skin feels soft all day.",2026-01-10
-4,HydraSoft Daily Moisturizer,Moisturizer,3,"The texture is okay but it feels a little heavy under makeup.",2026-01-15
-5,ClearPore Clay Mask,Mask,4,"Helped reduce oil and made my pores look cleaner after one use.",2026-01-18
-6,ClearPore Clay Mask,Mask,2,"This mask was too drying and left my face tight.",2026-01-22
-7,LuxeLip Repair Balm,Lip Care,5,"This lip balm is smooth, moisturizing, and lasts for hours.",2026-02-01
-8,LuxeLip Repair Balm,Lip Care,4,"Great product but I wish the packaging was better.",2026-02-03
-9,BrightEye Caffeine Cream,Eye Cream,3,"It feels cooling but I did not notice a big difference in puffiness.",2026-02-08
-10,BrightEye Caffeine Cream,Eye Cream,2,"This made my under eyes feel dry and a little irritated.",2026-02-12
-11,GlowSkin Vitamin C Serum,Serum,4,"My dark spots look lighter after a few weeks. Good product overall.",2026-02-15
-12,HydraSoft Daily Moisturizer,Moisturizer,1,"It broke me out and felt greasy on my skin.",2026-02-19
-13,ClearPore Clay Mask,Mask,5,"My skin felt clean and smooth. It helped with oil control.",2026-02-23
-14,LuxeLip Repair Balm,Lip Care,2,"The balm worked okay but it melted in my bag and the tube leaked.",2026-03-01
-15,BrightEye Caffeine Cream,Eye Cream,4,"Nice lightweight cream. It helped my under eyes look less tired.",2026-03-05
-16,GlowSkin Vitamin C Serum,Serum,3,"I like the glow but the formula feels sticky.",2026-03-10
-17,HydraSoft Daily Moisturizer,Moisturizer,5,"Perfect for daily use. It absorbs quickly and does not clog my pores.",2026-03-12
-18,ClearPore Clay Mask,Mask,3,"It works for oil but can be drying if I leave it on too long.",2026-03-16
-19,LuxeLip Repair Balm,Lip Care,5,"My lips felt repaired overnight. I would repurchase.",2026-03-20
-20,BrightEye Caffeine Cream,Eye Cream,1,"I saw no results and the product felt overpriced.",2026-03-23
+1,HydraSoft Daily Moisturizer,Moisturizer,5,The texture is smooth and it absorbs quickly.,2026-02-27
+2,ClearPore Clay Mask,Mask,2,The product felt heavy and greasy on my skin.,2026-04-19
+3,GlowSkin Vitamin C Serum,Serum,4,The texture is smooth and it absorbs quickly.,2026-05-10
+4,GlowSkin Vitamin C Serum,Serum,3,"I liked parts of the product, but the results were average.",2026-05-20
+5,SunVeil Daily SPF,Sunscreen,5,I noticed better skin texture after using this consistently.,2026-01-02
+6,ClearPore Clay Mask,Mask,3,"The texture is fine, but I expected a little more.",2026-03-13
+7,ClearPore Clay Mask,Mask,5,Very hydrating and lightweight. My skin feels soft all day.,2026-01-24
+8,SunVeil Daily SPF,Sunscreen,5,I noticed better skin texture after using this consistently.,2026-01-12
+9,BalanceDrop Hydrating Toner,Toner,3,"It worked for basic use, but I am not sure I would repurchase.",2026-01-21
+10,BrightEye Caffeine Cream,Eye Cream,2,The formula felt sticky and uncomfortable.,2026-05-28
+11,LuxeLip Repair Balm,Lip Care,1,I saw no results and the product felt overpriced.,2026-03-16
+12,HydraSoft Daily Moisturizer,Moisturizer,1,It broke me out after a few uses.,2026-03-13
+13,BalanceDrop Hydrating Toner,Toner,3,"The texture is fine, but I expected a little more.",2026-02-11
+14,FreshFoam Gentle Cleanser,Cleanser,5,I noticed better skin texture after using this consistently.,2026-01-19
+15,ClearPore Clay Mask,Mask,3,"It feels nice, but the results were not dramatic.",2026-02-11
+16,BalanceDrop Hydrating Toner,Toner,5,The texture is smooth and it absorbs quickly.,2026-03-25
+17,GlowSkin Vitamin C Serum,Serum,4,This product feels gentle and works well under makeup.,2026-04-13
+18,BrightEye Caffeine Cream,Eye Cream,5,This product feels gentle and works well under makeup.,2026-02-24
+19,BalanceDrop Hydrating Toner,Toner,5,I would definitely repurchase this because the results were good.,2026-02-06
+20,BrightEye Caffeine Cream,Eye Cream,5,I noticed better skin texture after using this consistently.,2026-05-30
+21,SunVeil Daily SPF,Sunscreen,2,The formula felt sticky and uncomfortable.,2026-02-26
+22,ClearPore Clay Mask,Mask,3,"The product is okay, but I did not notice a major difference.",2026-01-13
+23,HydraSoft Daily Moisturizer,Moisturizer,4,"My skin looks fresh, smooth, and more balanced.",2026-01-17
+24,SunVeil Daily SPF,Sunscreen,5,I noticed better skin texture after using this consistently.,2026-05-22
+25,GlowSkin Vitamin C Serum,Serum,3,"The product is okay, but I did not notice a major difference.",2026-05-18
+26,BrightEye Caffeine Cream,Eye Cream,2,The product felt heavy and greasy on my skin.,2026-03-17
+27,SunVeil Daily SPF,Sunscreen,4,I noticed better skin texture after using this consistently.,2026-05-09
+28,ClearPore Clay Mask,Mask,3,"The product is okay, but I did not notice a major difference.",2026-03-18
+29,LuxeLip Repair Balm,Lip Care,4,I love this product. It made my skin look brighter and more even.,2026-03-24
+30,BalanceDrop Hydrating Toner,Toner,5,I noticed better skin texture after using this consistently.,2026-03-03
+31,GlowSkin Vitamin C Serum,Serum,5,Very hydrating and lightweight. My skin feels soft all day.,2026-01-22
+32,BalanceDrop Hydrating Toner,Toner,2,It was too drying and left my face feeling tight.,2026-02-02
+33,BalanceDrop Hydrating Toner,Toner,1,The packaging leaked and made the product messy to use.,2026-05-16
+34,SunVeil Daily SPF,Sunscreen,2,I saw no results and the product felt overpriced.,2026-03-21
+35,SunVeil Daily SPF,Sunscreen,2,The formula felt sticky and uncomfortable.,2026-04-23
+36,BalanceDrop Hydrating Toner,Toner,4,Very hydrating and lightweight. My skin feels soft all day.,2026-03-28
+37,GlowSkin Vitamin C Serum,Serum,3,"It feels nice, but the results were not dramatic.",2026-05-31
+38,LuxeLip Repair Balm,Lip Care,5,I love this product. It made my skin look brighter and more even.,2026-02-28
+39,HydraSoft Daily Moisturizer,Moisturizer,2,The product felt heavy and greasy on my skin.,2026-05-12
+40,LuxeLip Repair Balm,Lip Care,5,The texture is smooth and it absorbs quickly.,2026-05-19
+41,ClearPore Clay Mask,Mask,2,This did not work well for my skin and felt harsh.,2026-03-04
+42,BalanceDrop Hydrating Toner,Toner,1,The product felt heavy and greasy on my skin.,2026-01-25
+43,SunVeil Daily SPF,Sunscreen,5,I would definitely repurchase this because the results were good.,2026-01-14
+44,HydraSoft Daily Moisturizer,Moisturizer,5,This product feels gentle and works well under makeup.,2026-01-28
+45,LuxeLip Repair Balm,Lip Care,5,I would definitely repurchase this because the results were good.,2026-02-05
+46,SunVeil Daily SPF,Sunscreen,5,The texture is smooth and it absorbs quickly.,2026-01-20
+47,BalanceDrop Hydrating Toner,Toner,2,The product felt heavy and greasy on my skin.,2026-01-13
+48,GlowSkin Vitamin C Serum,Serum,1,It was too drying and left my face feeling tight.,2026-04-15
+49,BalanceDrop Hydrating Toner,Toner,5,I love this product. It made my skin look brighter and more even.,2026-02-12
+50,SunVeil Daily SPF,Sunscreen,5,I noticed better skin texture after using this consistently.,2026-04-27
+51,BrightEye Caffeine Cream,Eye Cream,5,I would definitely repurchase this because the results were good.,2026-02-09
+52,LuxeLip Repair Balm,Lip Care,4,I love this product. It made my skin look brighter and more even.,2026-03-22
+53,GlowSkin Vitamin C Serum,Serum,5,This gave me a healthy glow without feeling greasy.,2026-01-15
+54,HydraSoft Daily Moisturizer,Moisturizer,1,The product felt heavy and greasy on my skin.,2026-03-02
+55,SunVeil Daily SPF,Sunscreen,5,The texture is smooth and it absorbs quickly.,2026-05-29
+56,GlowSkin Vitamin C Serum,Serum,3,"It worked for basic use, but I am not sure I would repurchase.",2026-05-30
+57,FreshFoam Gentle Cleanser,Cleanser,1,The formula felt sticky and uncomfortable.,2026-03-03
+58,BrightEye Caffeine Cream,Eye Cream,5,I noticed better skin texture after using this consistently.,2026-04-28
+59,FreshFoam Gentle Cleanser,Cleanser,1,This irritated my skin and caused small bumps.,2026-04-28
+60,HydraSoft Daily Moisturizer,Moisturizer,4,I noticed better skin texture after using this consistently.,2026-02-03
+61,FreshFoam Gentle Cleanser,Cleanser,1,The formula felt sticky and uncomfortable.,2026-03-14
+62,ClearPore Clay Mask,Mask,5,I noticed better skin texture after using this consistently.,2026-05-16
+63,GlowSkin Vitamin C Serum,Serum,3,"The formula is decent, but it may depend on skin type.",2026-03-18
+64,HydraSoft Daily Moisturizer,Moisturizer,1,The packaging leaked and made the product messy to use.,2026-01-30
+65,HydraSoft Daily Moisturizer,Moisturizer,1,The packaging leaked and made the product messy to use.,2026-03-14
+66,LuxeLip Repair Balm,Lip Care,1,The packaging leaked and made the product messy to use.,2026-05-10
+67,BalanceDrop Hydrating Toner,Toner,4,Very hydrating and lightweight. My skin feels soft all day.,2026-04-19
+68,BrightEye Caffeine Cream,Eye Cream,5,This gave me a healthy glow without feeling greasy.,2026-03-09
+69,ClearPore Clay Mask,Mask,2,It broke me out after a few uses.,2026-05-24
+70,GlowSkin Vitamin C Serum,Serum,5,This gave me a healthy glow without feeling greasy.,2026-05-20
+71,GlowSkin Vitamin C Serum,Serum,2,It was too drying and left my face feeling tight.,2026-04-21
+72,ClearPore Clay Mask,Mask,5,I love this product. It made my skin look brighter and more even.,2026-04-02
+73,LuxeLip Repair Balm,Lip Care,3,"I liked parts of the product, but the results were average.",2026-01-27
+74,FreshFoam Gentle Cleanser,Cleanser,2,It was too drying and left my face feeling tight.,2026-03-02
+75,ClearPore Clay Mask,Mask,1,It broke me out after a few uses.,2026-01-07
+76,ClearPore Clay Mask,Mask,2,It broke me out after a few uses.,2026-03-05
+77,BrightEye Caffeine Cream,Eye Cream,5,Very hydrating and lightweight. My skin feels soft all day.,2026-04-08
+78,GlowSkin Vitamin C Serum,Serum,1,I saw no results and the product felt overpriced.,2026-04-28
+79,FreshFoam Gentle Cleanser,Cleanser,4,The texture is smooth and it absorbs quickly.,2026-01-07
+80,LuxeLip Repair Balm,Lip Care,5,Very hydrating and lightweight. My skin feels soft all day.,2026-03-13
+81,FreshFoam Gentle Cleanser,Cleanser,3,"It worked for basic use, but I am not sure I would repurchase.",2026-05-18
+82,FreshFoam Gentle Cleanser,Cleanser,1,The packaging leaked and made the product messy to use.,2026-02-15
+83,BrightEye Caffeine Cream,Eye Cream,5,"My skin looks fresh, smooth, and more balanced.",2026-03-30
+84,FreshFoam Gentle Cleanser,Cleanser,5,Very hydrating and lightweight. My skin feels soft all day.,2026-04-09
+85,LuxeLip Repair Balm,Lip Care,5,"My skin looks fresh, smooth, and more balanced.",2026-01-01
+86,LuxeLip Repair Balm,Lip Care,4,This product feels gentle and works well under makeup.,2026-03-22
+87,HydraSoft Daily Moisturizer,Moisturizer,2,The packaging leaked and made the product messy to use.,2026-04-15
+88,FreshFoam Gentle Cleanser,Cleanser,5,This gave me a healthy glow without feeling greasy.,2026-02-19
+89,SunVeil Daily SPF,Sunscreen,3,"It worked for basic use, but I am not sure I would repurchase.",2026-02-14
+90,BrightEye Caffeine Cream,Eye Cream,4,I noticed better skin texture after using this consistently.,2026-03-15
+91,LuxeLip Repair Balm,Lip Care,5,This product feels gentle and works well under makeup.,2026-04-30
+92,BalanceDrop Hydrating Toner,Toner,4,I would definitely repurchase this because the results were good.,2026-02-13
+93,HydraSoft Daily Moisturizer,Moisturizer,5,This product feels gentle and works well under makeup.,2026-01-24
+94,LuxeLip Repair Balm,Lip Care,3,"It feels nice, but the results were not dramatic.",2026-02-20
+95,ClearPore Clay Mask,Mask,4,I would definitely repurchase this because the results were good.,2026-01-19
+96,BalanceDrop Hydrating Toner,Toner,5,The texture is smooth and it absorbs quickly.,2026-04-09
+97,BalanceDrop Hydrating Toner,Toner,4,I love this product. It made my skin look brighter and more even.,2026-01-28
+98,SunVeil Daily SPF,Sunscreen,5,I would definitely repurchase this because the results were good.,2026-01-13
+99,LuxeLip Repair Balm,Lip Care,1,This did not work well for my skin and felt harsh.,2026-02-04
+100,BalanceDrop Hydrating Toner,Toner,3,"The formula is decent, but it may depend on skin type.",2026-03-23
+101,BalanceDrop Hydrating Toner,Toner,3,"I liked parts of the product, but the results were average.",2026-05-10
+102,SunVeil Daily SPF,Sunscreen,2,This did not work well for my skin and felt harsh.,2026-02-10
+103,BalanceDrop Hydrating Toner,Toner,4,I noticed better skin texture after using this consistently.,2026-05-14
+104,BalanceDrop Hydrating Toner,Toner,3,"The texture is fine, but I expected a little more.",2026-04-23
+105,HydraSoft Daily Moisturizer,Moisturizer,1,The packaging leaked and made the product messy to use.,2026-03-27
+106,FreshFoam Gentle Cleanser,Cleanser,1,It was too drying and left my face feeling tight.,2026-02-08
+107,LuxeLip Repair Balm,Lip Care,4,The texture is smooth and it absorbs quickly.,2026-01-17
+108,SunVeil Daily SPF,Sunscreen,5,I would definitely repurchase this because the results were good.,2026-04-17
+109,GlowSkin Vitamin C Serum,Serum,5,"My skin looks fresh, smooth, and more balanced.",2026-05-30
+110,GlowSkin Vitamin C Serum,Serum,2,It broke me out after a few uses.,2026-05-03
+111,GlowSkin Vitamin C Serum,Serum,2,It broke me out after a few uses.,2026-04-18
+112,LuxeLip Repair Balm,Lip Care,5,"My skin looks fresh, smooth, and more balanced.",2026-05-05
+113,GlowSkin Vitamin C Serum,Serum,5,"My skin looks fresh, smooth, and more balanced.",2026-02-12
+114,BalanceDrop Hydrating Toner,Toner,2,This irritated my skin and caused small bumps.,2026-04-11
+115,GlowSkin Vitamin C Serum,Serum,5,This gave me a healthy glow without feeling greasy.,2026-04-29
+116,ClearPore Clay Mask,Mask,5,This product feels gentle and works well under makeup.,2026-02-24
+117,BalanceDrop Hydrating Toner,Toner,5,I noticed better skin texture after using this consistently.,2026-04-18
+118,BrightEye Caffeine Cream,Eye Cream,2,This irritated my skin and caused small bumps.,2026-05-19
+119,GlowSkin Vitamin C Serum,Serum,2,I saw no results and the product felt overpriced.,2026-01-18
+120,GlowSkin Vitamin C Serum,Serum,1,I saw no results and the product felt overpriced.,2026-01-06
