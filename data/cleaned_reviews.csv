@@ -1,0 +1,21 @@
+review_id,product_name,category,rating,review_text,review_date,clean_review_text,review_length
+1,GlowSkin Vitamin C Serum,Serum,5,This serum made my skin look brighter and more even. I love the glow it gives.,2026-01-04,this serum made my skin look brighter and more even. i love the glow it gives.,16
+2,GlowSkin Vitamin C Serum,Serum,2,It smelled nice but it irritated my skin and caused small bumps.,2026-01-07,it smelled nice but it irritated my skin and caused small bumps.,12
+3,HydraSoft Daily Moisturizer,Moisturizer,5,Very hydrating without feeling greasy. My skin feels soft all day.,2026-01-10,very hydrating without feeling greasy. my skin feels soft all day.,11
+4,HydraSoft Daily Moisturizer,Moisturizer,3,The texture is okay but it feels a little heavy under makeup.,2026-01-15,the texture is okay but it feels a little heavy under makeup.,12
+5,ClearPore Clay Mask,Mask,4,Helped reduce oil and made my pores look cleaner after one use.,2026-01-18,helped reduce oil and made my pores look cleaner after one use.,12
+6,ClearPore Clay Mask,Mask,2,This mask was too drying and left my face tight.,2026-01-22,this mask was too drying and left my face tight.,10
+7,LuxeLip Repair Balm,Lip Care,5,"This lip balm is smooth, moisturizing, and lasts for hours.",2026-02-01,"this lip balm is smooth, moisturizing, and lasts for hours.",10
+8,LuxeLip Repair Balm,Lip Care,4,Great product but I wish the packaging was better.,2026-02-03,great product but i wish the packaging was better.,9
+9,BrightEye Caffeine Cream,Eye Cream,3,It feels cooling but I did not notice a big difference in puffiness.,2026-02-08,it feels cooling but i did not notice a big difference in puffiness.,13
+10,BrightEye Caffeine Cream,Eye Cream,2,This made my under eyes feel dry and a little irritated.,2026-02-12,this made my under eyes feel dry and a little irritated.,11
+11,GlowSkin Vitamin C Serum,Serum,4,My dark spots look lighter after a few weeks. Good product overall.,2026-02-15,my dark spots look lighter after a few weeks. good product overall.,12
+12,HydraSoft Daily Moisturizer,Moisturizer,1,It broke me out and felt greasy on my skin.,2026-02-19,it broke me out and felt greasy on my skin.,10
+13,ClearPore Clay Mask,Mask,5,My skin felt clean and smooth. It helped with oil control.,2026-02-23,my skin felt clean and smooth. it helped with oil control.,11
+14,LuxeLip Repair Balm,Lip Care,2,The balm worked okay but it melted in my bag and the tube leaked.,2026-03-01,the balm worked okay but it melted in my bag and the tube leaked.,14
+15,BrightEye Caffeine Cream,Eye Cream,4,Nice lightweight cream. It helped my under eyes look less tired.,2026-03-05,nice lightweight cream. it helped my under eyes look less tired.,11
+16,GlowSkin Vitamin C Serum,Serum,3,I like the glow but the formula feels sticky.,2026-03-10,i like the glow but the formula feels sticky.,9
+17,HydraSoft Daily Moisturizer,Moisturizer,5,Perfect for daily use. It absorbs quickly and does not clog my pores.,2026-03-12,perfect for daily use. it absorbs quickly and does not clog my pores.,13
+18,ClearPore Clay Mask,Mask,3,It works for oil but can be drying if I leave it on too long.,2026-03-16,it works for oil but can be drying if i leave it on too long.,15
+19,LuxeLip Repair Balm,Lip Care,5,My lips felt repaired overnight. I would repurchase.,2026-03-20,my lips felt repaired overnight. i would repurchase.,8
+20,BrightEye Caffeine Cream,Eye Cream,1,I saw no results and the product felt overpriced.,2026-03-23,i saw no results and the product felt overpriced.,9

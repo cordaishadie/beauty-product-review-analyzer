@@ -1,0 +1,4 @@
+sentiment,review_count,percentage
+positive,10,50.0
+negative,8,40.0
+neutral,2,10.0
